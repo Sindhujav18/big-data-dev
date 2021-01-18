@@ -14,7 +14,6 @@
 - After graduation, I would like to work as a full stack software developer for one of the multinational companies. I am hoping to gain more programming knowledge which will be helpful for my future endeavors.
 
 ## Links
-
-- LinkedIn :  https://www.linkedin.com/in/sindhuja-valeti-8ba67784/
-- GitHub   : https://github.com/Sindhujav18
+- [LinkedIn](https://www.linkedin.com/in/sindhuja-valeti-8ba67784/)
+- [GitHub](https://github.com/Sindhujav18)
 
