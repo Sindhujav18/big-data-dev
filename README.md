@@ -17,3 +17,5 @@
 - [LinkedIn](https://www.linkedin.com/in/sindhuja-valeti-8ba67784/)
 - [GitHub](https://github.com/Sindhujav18)
 
+![](https://github.com/Sindhujav18/big-data-dev/blob/main/Image.png)
+
